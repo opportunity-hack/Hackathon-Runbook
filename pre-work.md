@@ -44,3 +44,5 @@ Given that you're targeting college students you'll want to engage with the loca
 Critical to this process is developing an on-going relationship.  Once you get the "flywheel" moving it will help you year after year.  It doesn't mean you don't have to do work, but it makes the whole hackathon easier in subsequent years.
 
 *But* college students are only available during school times.  So, summers are out.  Spring break is out.  Christmas break is out.
+
+Additionally, if you want to maximally incentivize college students, you want people hacking at times that make it so that you (and your sponsorship partners) can offer jobs/internships in the next six to nine months.

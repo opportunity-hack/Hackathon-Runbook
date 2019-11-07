@@ -33,6 +33,7 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
     * Food
     * Recruiting "roadshows"
 * Hackathon "weekend" 
+  * Judging
 		
 	
 	
