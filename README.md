@@ -6,7 +6,7 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
   * Tuning is is not completely re-examining.
 
 * [Why Opportunity Hack?](opportunity.md)
-* Pre-work that must be done
+* [Pre-work](pre-work.md) *that must be done*
   * Coordinating team
   * Where
   * When
