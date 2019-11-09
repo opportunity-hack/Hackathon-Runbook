@@ -1,3 +1,16 @@
+# Core team
+
+The single most important thing you need to do is to identify your core team.  These are the people who will get the work done and you know you can rely on.  Now, a critical part of this is ensuring that you have discrete portions that people can own.  It is a fact of working with volunteers that if you say:
+
+"Hey, can anyone help me out with the hackathon?" you will get very little response.
+
+But, if you say "Can someone coordinate the Costco order?", you will have a much better chance of success.
+
+Critical to this is that you *must* give that person autonomy.  If you want to tell them _how_ to do the job, then they are unlikely to own it, and won't be there for you year after year.
+
+
+# Discussion
+
 In general you want to avoid having a case where you have dependencies that are interlocking, but there are some times it can not be avoided.  This is one of them.
 
 1. You need to figure out the dates that you want to have the event.

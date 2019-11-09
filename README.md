@@ -5,6 +5,7 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
 * Even though we've gotten pretty good at these, there is always room for improvement, and we tune things every year.
   * Tuning is is not completely re-examining.
 
+* [Why Opportunity Hack?](opportunity.md)
 * Pre-work that must be done
   * Coordinating team
   * Where
