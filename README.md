@@ -35,7 +35,23 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
     * Food
     * Recruiting "roadshows"
 * Hackathon "weekend" 
-  * [Judging](judging.md)
-		
-	
-	
+  * Saturday
+    * Registration
+    * Breakfast
+    * Opening comments
+    * Keynote
+    * Information for the day
+    * NPO presentations
+    * Team formation
+      * Hacking begins
+      * Github repos
+      * Devpost submissions
+    * A bunch of meals and other stuff 
+  * Sunday
+    * More meals
+    * Get submissions done
+    * Teams prepping for presentations
+    * [Judging](judging.md)
+      * Prepping the judges
+    * Awards
+    * Drinking

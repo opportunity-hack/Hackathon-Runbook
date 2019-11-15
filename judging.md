@@ -8,7 +8,7 @@ In the end, this turns into a simple math discussion.  You need to provide A min
 
 This is a train wreck for any reasonable value of either B or C.   At the end of 30+ hours of hacking you're now asking people to sit through B*C minutes of serial presentations.  You're worried about that total time so you end up reducing C to the point that the teams that have been working this whole time feel like they didn't get an opportunity to really present what it is they accomplished.  Now they're irritated and less likely to come back next year, and you have a cycle of decay.
 
-Or, you don't reduce C.  You now make it so everyone there has to sit through 1+ hours of presentations that are less and less interesting as time goes on, and they are less likely to come back next year, and you hae a cycle of decay.  (No, I didn't cut-n-paste that).
+Or, you don't reduce C.  You now make it so everyone there has to sit through 1+ hours of presentations that are less and less interesting as time goes on, and they are less likely to come back next year, and you have a cycle of decay.  (No, I didn't cut-n-paste that).
 
 ## Criteria
 
