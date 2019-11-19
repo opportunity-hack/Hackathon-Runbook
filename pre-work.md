@@ -33,9 +33,9 @@ In order to break this lockstep you should probably focus on venue first.
 * Auditorium for judging
 * Audio/Visual available for keynote/intro/judging
 
-# When (aka dates) 
+# When (aka dates)
 
-1. You need to consider the availability of both your hackers and your NPOs. 
+1. You need to consider the availability of both your hackers and your NPOs.
 2. Depending on your hacker population, might limit their availability
 3. Repeat
 
@@ -59,3 +59,38 @@ Critical to this process is developing an on-going relationship.  Once you get t
 *But* college students are only available during school times.  So, summers are out.  Spring break is out.  Christmas break is out.
 
 Additionally, if you want to maximally incentivize college students, you want people hacking at times that make it so that you (and your sponsorship partners) can offer jobs/internships in the next six to nine months.
+
+# How (aka volunteers and mentors)
+Mentors and volunteers are the reason for the success of this hackathon. We simply would not be able to handle a large amount of hackers alone. Volunteers will help aide the process of the event and mentors will aide in supporting the hackers.
+
+## Volunteers
+
+*Volunteers*! You will help us make sure the hackers are happy and well fed. Hackers may be slightly sleep deprived and would love for you to walk around to help them keep a clean environment. In their Redbull-induced focus, they may have forgotten to throw something away, or worse, forgot to eat food.
+
+*Registration and signup volunteers* will be making sure that everyone registers using Google Forms.  After registration, Hackers will be asked to either eat some breakfast or head to the amphitheater - whatever their heart desires.
+
+There is also a volunteering group for *Judging Runners*. This group of people will either be timing the judges or running back the judging forms to the control center so we can record their marks.
+
+*Photographers*! Our goal is to document this event so that both Phoenix and Arizona know how amazing our technical talent and our focus on community shine bright like the sun on a saguaro! Snap action photos, sleeping photos, engaged photos, happy photos - document through photos! Post on social media #OpportunityHackAZ and @OpportunityHack on Facebook, Twitter, and LinkedIn.  If you can put your photos in Google Photos, DropBox, and share them with us via email, that would be amazing.
+Mentors
+
+## Mentors
+Mentors have enlisted your brains to help the greater good during Opportunity Hack. We need you to share your ideas, be a sounding board, and help unblock hackers that have been staring at the screen for hours.
+
+First wave (Day 1 11am to 3pm): Help to ensure teams are solving the right problem, remind and review judging criteria with them. It is completely okay to have multiple mentors visit teams during the first four hours!
+
+Second wave (Day 1 3pm to 7pm): This will be a mixture of debugging, troubleshooting, scope/marketing/technology recommendations. Make sure teams are solving specific problems and talk through judging criteria.
+
+Third wave (Day 1 7pm to 11pm): These are the golden hours of hacking, teams should be comfortable with what they are creating, they should have a clear goal and should already be writing code. You will help them make judgement calls on functionality in an effort to get them to complete something. If they are stuck, help them get unstuck.
+
+Fourth Wave (Day 2 7am to 12pm): Hackers are tired, their eyes are red, their energy level may be low, BUT they are still driven to create something awe-inspiring. Help them with their demos and pitches. Put yourself in the shoes of the non-profits - what should they focus on to come across the finish line?
+
+General Mentor - help teams figure out what direction they should take. Review the judging criteria, ask what demographic they are targeting, look for uniqueness in their ideas, assess scope problems (usually the scope is too large). Use any part of your background to help steer the team in the right direction. Pretend you are a user - ask questions to ensure hackers have considered their target demographic.
+
+Presentation Mentor - Help teams with their pitches and presentations. You'll either publish that you're seated in a specific area or rove around to have teams practice their pitches. Does the solution the team is pitching make sense to you? Are they succinct and using their time for the presentation in the best way possible?
+
+GitHub Mentor - help teams understand how to commit their code to https://github.com/orgs/2019-Arizona-Opportunity-Hack/ which is a requirement for all teams. They will also need to submit their projects on DevPost, you may need to tangentially help with that.
+
+Heroku/AWS/Google Cloud Mentor - a great idea sitting on a laptop can't go very far. Help teams get their ideas productionalized in the cloud!
+
+Software Engineering Mentors - in the early hours of Opportunity Hack, you should be asking for project pitches. Listen to what the hackers are thinking and help them figure out what the right technology they should be using. Make sure they aren't trying to boil the ocean. In the later hours, you'll be helping tired hackers troubleshoot NullPointers, recursion logic, UI display issues, and a runtime exceptions.
