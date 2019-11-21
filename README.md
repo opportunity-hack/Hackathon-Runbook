@@ -26,7 +26,7 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
       * Sponsors
   * 2+ months
     * [Mentors](mentors.md)
-    * Volunteers
+    * [Volunteers](volunteers.md)
     * Judges
     * SWAG
       * Give aways
