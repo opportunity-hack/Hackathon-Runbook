@@ -19,13 +19,13 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
     * SWAG
     * Bribes 
   * 6+ months
-    * Coordination platform ([Devpost](https://www.devpost.com))
+    * [Coordination platform](devpost.md) - ([Devpost](https://www.devpost.com))
     * Recruiting 
       * Hackers
       * Hackees (i.e. NPOs)
       * Sponsors
   * 2+ months
-    * Mentors
+    * [Mentors](mentors.md)
     * Volunteers
     * Judges
     * SWAG
