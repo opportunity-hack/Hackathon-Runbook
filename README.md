@@ -52,6 +52,6 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
     * Get submissions done
     * Teams prepping for presentations
     * [Judging](judging.md)
-      * Prepping the judges
+      * [Prepping the judges](prepping-judges.md)
     * Awards
     * Drinking
