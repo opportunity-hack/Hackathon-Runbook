@@ -6,7 +6,7 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
   * Tuning is is not completely re-examining.
 
 # Resources
-*  [Resources](resources.md)
+*  [Resources](resources/resources.md)
 
 # Details
 * [Why Opportunity Hack?](opportunity.md)
