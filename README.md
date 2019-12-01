@@ -17,45 +17,45 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
   *  Who
 *  Hackathon
   *  [Budget](budget.md)
-    * Prizes
-    * Venue
-    * [Food](food.md)
-    * SWAG
-    * Bribes 
-  * 6+ months
-    * [Coordination platform](devpost.md) - ([Devpost](https://www.devpost.com))
-    * Recruiting 
-      * Hackers
-      * Hackees (i.e. NPOs)
-      * Sponsors
-  * 2+ months
-    * [Mentors](mentors.md)
-    * [Volunteers](volunteers.md)
-    * Judges
-    * SWAG
-      * Give aways
-      * T-shirts
-  * 1+ month
-    * Food
-    * Recruiting "roadshows"
-* Hackathon "weekend" 
-  * Saturday
-    * Registration
-    * Breakfast
-    * Opening comments
-    * Keynote
-    * Information for the day
-    * NPO presentations
-    * Team formation
-      * Hacking begins
-      * Github repos
-      * Devpost submissions
-    * A bunch of meals and other stuff 
-  * Sunday
-    * More meals
-    * Get submissions done
-    * Teams prepping for presentations
-    * [Judging](judging.md)
-      * [Prepping the judges](prepping-judges.md)
-    * Awards
-    * Drinking
+  *  Prizes
+  *  Venue
+  *  [Food](food.md)
+  *  SWAG
+  *  Bribes 
+  *  6+ months
+    *  [Coordination platform](devpost.md) - ([Devpost](https://www.devpost.com))
+    *  Recruiting 
+      *  Hackers
+      *  Hackees (i.e. NPOs)
+      *  Sponsors
+  *  2+ months
+    *  [Mentors](mentors.md)
+    *  [Volunteers](volunteers.md)
+    *  Judges
+    *  SWAG
+      *  Give aways
+      *  T-shirts
+  *  1+ month
+    *  Food
+    *  Recruiting "roadshows"
+*  Hackathon "weekend" 
+  *  Saturday
+    *  Registration
+    *  Breakfast
+    *  Opening comments
+    *  Keynote
+    *  Information for the day
+    *  NPO presentations
+    *  Team formation
+      *  Hacking begins
+      *  Github repos
+      *  Devpost submissions
+    *  A bunch of meals and other stuff 
+  *  Sunday
+    *  More meals
+    *  Get submissions done
+    *  Teams prepping for presentations
+    *  [Judging](judging.md)
+      *  [Prepping the judges](prepping-judges.md)
+    *  Awards
+    *  Drinking
