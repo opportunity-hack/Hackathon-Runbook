@@ -6,11 +6,11 @@ One of the primary ways to make your hackathon successful is to ensure that ever
 
 You need to plan for various dietary restrictions.  In general you should expect something like the following:
 
-*  25% vegetarian
-*  n% no beef/pork
+*  33% vegetarian
 *  A couple of vegans
-*  Allergies:  Unknown.  
-*  Update this with the actual data
+*  Allergies: A few, but varied enough you can't actually plan for it
+
+**Note:** You can find some of the data behind these suggestions in the [food section of the resources page](resources/resources.md#Food)
 
 # Equipment
 
