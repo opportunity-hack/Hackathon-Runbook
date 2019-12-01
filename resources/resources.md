@@ -20,19 +20,23 @@ Here are the survey results from two years.  As you can see, there is a decent a
 ## 2019
 
 * Arizona
-  ![2019 AZ food results](201910-arizona-food-survey-graph.png)
+
+![2019 AZ food results](201910-arizona-food-survey-graph.png)
 
 * California
-  ![2019 CA food results](201911-california-food-survey-graph.png)
+
+![2019 CA food results](201911-california-food-survey-graph.png)
 
 # Shirts
 
 * Calfornia
-  ![2019 CA t-shirt size results](201911-california-shirt-sizes-graph.png)
+
+![2019 CA t-shirt size results](201911-california-shirt-sizes-graph.png)
 
 * Arizona
-  ![2019 AZ Hacker shirts](201910-az-shirt-sizes-hacker.png)
-  ![2019 AZ Non-Hacker shirts](201910-az-shirt-sizes-non-hacker.png)
+
+![2019 AZ Hacker shirts](201910-az-shirt-sizes-hacker.png)
+![2019 AZ Non-Hacker shirts](201910-az-shirt-sizes-non-hacker.png)
 
 **Note:** I wouldn't trust those non-hacker numbers.  There were too few for the total number of mentors/volunteers/judges we had.  I just provide this here so there is __some__ data.
 
