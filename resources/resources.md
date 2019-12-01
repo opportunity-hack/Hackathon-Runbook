@@ -12,9 +12,9 @@ You should have view access to these, but you'll probably need to make copies fo
 # Food
 
 ![2019 AZ food results](201910-arizona-food-survey-graph.png)
-![2019 CA food results](201910-california-food-survey-graph.png)
+![2019 CA food results](201911-california-food-survey-graph.png)
 
 # Shirts
 
-![2019 CA t-shirt size results](201910-california-shirt-sizes-graph.png)
+![2019 CA t-shirt size results](201911-california-shirt-sizes-graph.png)
 
