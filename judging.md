@@ -2,6 +2,13 @@
 
 There are any number of ways you _could_ do judging.  Most of them are bad.  There is really only one _good_ way to handle judging.
 
+# TL;DR
+* You need to have ceiling(# teams/3.3) judges.
+* You'll do two rounds of judging
+  * Round one:  Expo style, 9 minutes.
+  * Round two:  Theatre style: 4 minutes
+
+# Details
 ## Discussion
 
 In the end, this turns into a simple math discussion.  You need to provide A minutes of judging for B total teams.  Now, the traditional method of doing this would be to take B total teams and multiply it by C minutes to come up with the total amount of time for traditional theatre style judging.
