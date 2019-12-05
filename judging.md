@@ -68,8 +68,8 @@ You have 60 minutes to get D*2 visits done.
 
 So now, you need F judges, where F is calculated as: 
 
-Total Visit time = D Teams * 2 visits * 9 minutes == D * 18
-So for 60 minutes, you need 60/18 == 3.3 teams per judge
+* Total Visit time = D Teams * 2 visits * 9 minutes == D * 18 
+* So for 60 minutes, you need 60/18 == 3.3 teams per judge
 
 So, the example math now looks like:
 
