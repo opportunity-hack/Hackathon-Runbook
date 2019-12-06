@@ -13,6 +13,8 @@ Additionally you might have costs for:
 
 Even if you can get the venue for free, you often have to pay for cleaning or security for the event.  One way to offset this cost is to make the venue one of the sponsors.
 
+**Note:** There is a sample budget linked from the [Resources](resources/resources.md) page, or you can check out the [budget tab on the Google sheet directly](https://docs.google.com/spreadsheets/d/1UA896TJE1BFBNs3cf81oUJY0YodGAbyKZxQAMRJs9RI/edit).
+
 ## Prizes
 
 Money.  It's the first thing that people are going to be interested in.  However, since your goal is to provide completed solutions, you're going to want to award it in two chunks.  
