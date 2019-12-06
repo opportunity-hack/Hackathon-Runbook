@@ -11,7 +11,7 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
 # Details
 * [Why Opportunity Hack?](opportunity.md)
 * [Pre-work](pre-work.md) *that must be done*
-  * Coordinating team
+  * Core Team
   * Where
   * When
   * Who
