@@ -1,5 +1,33 @@
 # Mentors
-Mentors have enlisted your brains to help the greater good during Opportunity Hack. We need you to share your ideas, be a sounding board, and help unblock hackers that have been staring at the screen for hours.
+
+This section is a mixture of things you can directly steal to put in your presentations and signup sheets, and a description of how to do it.
+
+# Overview
+
+This was something that was tried and evolved into an integral part of the hackathon.  The hackers are generally smart, enthusiastic and full of energy.  What they're not is experienced.  As a result, they benefit greatly from having mentors who can answer basic questions for them.  The net effect of that is that you get better outcomes, which is the end goal anyway.  These mentors don't have to be seasoned veterans, anyone who has been in the workforce a year or two can likely help.
+
+## Technology
+
+You need them around:
+
+* Basic infrastructure
+  * github help
+  * Provisioning servers/containerization
+  * How to build in "the cloud"
+* Architecture
+  * What technologies to use
+  * How to avoid reinventing all of the wheels
+  * Sanity checking
+
+## Other
+
+* Help with getting their presentation ready
+* Being a soundingboard for questions
+* Basic user experience guinea pig
+
+# Text for you to steal
+
+Mentors we have enlisted your brains to help the greater good during Opportunity Hack. We need you to share your ideas, be a sounding board, and help unblock hackers that have been staring at the screen for hours.
 
 ## First wave (Day 1 11am to 3pm) 
 
