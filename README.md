@@ -18,7 +18,7 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
 * Hackathon
   * [Budget](budget.md)
   * [Prizes](prizes.md)
-  * Venue
+  * [Venue](venue.md)
   * [Food](food.md)
   * SWAG
   * Bribes 
