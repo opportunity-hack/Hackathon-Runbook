@@ -10,6 +10,10 @@ You need to have your core team identified by now.  These are the people who wil
 
 You should have line-of-sight on a venue.  Without that, you can't have a date, so you can't be "T minus anything".  This is your highest priority to chase down.
 
+## DevPost
+
+Setup your Devpost site and start populating it.  If that's your only website, fine.  If it is not your only website, update your website with the dates, times and links to your Devpost site.
+
 ## Recruiting
 
 You need three people identified to act as coordinators for recruiting.  There can be some cross-over (e.g. your sponsor coordinator could help with a university pitch), but in general this will be their primary job.  If you ask them to do more, it's likely at a cost of effectiveness.
