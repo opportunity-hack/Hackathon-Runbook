@@ -8,6 +8,8 @@ You should have view access to these, but you'll probably need to make copies fo
 
 *  [Master Presentation](https://docs.google.com/presentation/d/1caHNWUscXTxOiWXHcbPlxWsGHMhDurxgRdG8dau62-8/edit?usp=sharing)
 *  [Master Spreadsheet](https://docs.google.com/spreadsheets/d/1UA896TJE1BFBNs3cf81oUJY0YodGAbyKZxQAMRJs9RI/edit?usp=sharing)
+*  **Put in a generic marketing agreement form for people to leverage**
+*  **Put in some boilerplate rules as well**
 
 ## Forms
 
