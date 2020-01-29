@@ -85,3 +85,6 @@ Yes – initially (before Opportunity Hack has enough sponsorship money to suppo
 In the long-term, hopefully within the next 5 years, we’d have enough funds to fully support Opportunity Hack at each site without majority funding from the current for-profit company.  The goal is to offset the current funding by fundraising from external sources.
  
 We have also been developing an open-source Opportunity Hack model where a volunteer in a location Opportunity Hack does not operate in can conduct a weekend hackathon with Opportunity Hack branding.
+
+## Are there similar non-profits?
+- [AZGiveCamp](https://www.azgivecamp.org/) is a similar hackathon-based group that seeks to help non-profits in Arizona.
