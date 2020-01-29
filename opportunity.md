@@ -80,6 +80,6 @@ Absolutely – covered in the first answer.
 ## Have we thought through how for-profit companies would interact with this organization?
 Yes – initially (before Opportunity Hack has enough sponsorship money to support complete operations), it will be business as usual.  We would use any funds to compensate for the money that the founding for-profit company currently provides, but we would still continue to ask for the same budget from the founding for-profit company in 2020.
  
-In the long-term, hopefully by 2021, we’d have enough funds to fully support Opportunity Hack at each site without majority funding from the current for-profit company.  The goal is to offset the current funding by fundraising from external sources.
+In the long-term, hopefully within the next 5 years, we’d have enough funds to fully support Opportunity Hack at each site without majority funding from the current for-profit company.  The goal is to offset the current funding by fundraising from external sources.
  
 We have also been developing an open-source Opportunity Hack model where a volunteer in a location Opportunity Hack does not operate in can conduct a weekend hackathon with Opportunity Hack branding.
