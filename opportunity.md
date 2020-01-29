@@ -36,13 +36,15 @@ When negotiating for space, we have to negotiate as as for-profit company which 
 We currently do not receive any support from the for-profit founding company to keep code and software that has been developed up-to-date, and free of security vulnerabilities.  This means that non-profits who receive a final project have to keep up with this on their own.
 
 ### Build out Opportunity-Hack.org as a cloud platform
-We would like to deliver a cloud-based solution for the many problems that non-profits have.  After conducting years of hackathons, we understand common challenges that every non-profit has.  We've been initially investing in senior capstone projects as a method to further develop standard solutions, but we need to collocate and offer solutions in a single location with specific focus.
+We would like to deliver a cloud-based solution for the many problems that non-profits have.  After conducting years of hackathons, we understand common challenges that every non-profit has.  We've been initially investing in [senior capstone](https://github.com/opportunity-hack/Arizona#senior-capstones) projects as a method to further develop standard solutions, but we need to collocate and offer solutions in a single location with specific focus.
 
 Opportunity-Hack.org can be developed with the following example modules:
 1. Customer Relationship Management (CRM)
 2. Food pantry and food bank
 3. Paper form digitzation into HTML forms
 4. Volunteer engagement solutions
+
+Within our Arizona chapter, we have [documented all projects and non-profits](https://github.com/opportunity-hack/Arizona/issues) we've worked with.  This will give you a better idea of the scope of this mission and vision.
 
 ### Additional focus added for sponsors
 Opportunity Hack has not been present on social media, nor has there been much effort to promote sponsors.  Moving to a 501c3 will require that additional effort and money be spent to ensure that sponsors have a tiered structure in place with specific outcomes provided at different levels of funding
