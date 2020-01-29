@@ -82,4 +82,4 @@ Yes – initially (before Opportunity Hack has enough sponsorship money to suppo
  
 In the long-term, hopefully by 2021, we’d have enough funds to fully support Opportunity Hack at each site without majority funding from the current for-profit company.  The goal is to offset the current funding by fundraising from external sources.
  
-We have also been developing an open-source Opportunity Hack model where a volunteer in a location Opportunity Hack does not operate in can conduct a weekend hackaton with Opportunity Hack branding.
+We have also been developing an open-source Opportunity Hack model where a volunteer in a location Opportunity Hack does not operate in can conduct a weekend hackathon with Opportunity Hack branding.
