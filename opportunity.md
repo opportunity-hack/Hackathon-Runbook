@@ -73,6 +73,7 @@ Board of Directors (7 total people to start – the board can always elect more 
 1. Opportunity Hack Founder 1 – already has agreed
 2. Opportunity Hack Founder 2 – already has agreed
 3. Opportunity Hack Founder 3
+
 In addition to the 4 officers above
  
  
