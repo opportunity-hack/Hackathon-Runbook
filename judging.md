@@ -3,10 +3,15 @@
 There are any number of ways you _could_ do judging.  Most of them are bad.  There is really only one _good_ way to handle judging.
 
 # TL;DR
-* You need to have ceiling(# teams/3.3) judges.
+* You need to have ceiling(# teams/3.3) judges
 * You'll do two rounds of judging
-  * Round one:  Expo style, 9 minutes.
+  * Round one:  Expo style
+    * Each team gets to present for 8 minutes
+    * Each team will get to present to 2 judges independently
   * Round two:  Theatre style: 4 minutes
+    * There will be 5 finalist teams
+    * Each team gets 4 total minutes, 1 minute of presentaion, 3 minutes of demo
+  * After each round of judging, the judges will deliberate for ~30 minutes
 
 # Details
 ## Discussion
