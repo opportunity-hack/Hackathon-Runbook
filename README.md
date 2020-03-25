@@ -20,7 +20,7 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
   * [Prizes](prizes.md)
   * [Venue](venue.md)
   * [Food](food.md)
-  * SWAG
+  * [SWAG](SWAG.md)
   * Bribes 
   * 6+ months
     * [Coordination platform](devpost.md) - ([Devpost](https://www.devpost.com))
