@@ -1,4 +1,7 @@
-# Prizes
+---
+id: prizes
+title: Prizes
+---
 
 Clearly this needs to considered in [budget](budget.md) as well, but this is for the detailed discussion.
 

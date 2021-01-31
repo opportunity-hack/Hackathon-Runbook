@@ -1,4 +1,8 @@
-# Food
+---
+id: food
+title: Food
+---
+
 
 One of the primary ways to make your hackathon successful is to ensure that everyone is well fed, but it can be tricky.  Various special requests percentages do tend to vary by location, so we'll provide some guidelines.  You'll want to provide a variety of different styles of food just to keep it interesting.
 

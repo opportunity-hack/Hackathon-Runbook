@@ -1,4 +1,7 @@
-# Venue
+---
+id: venue 
+title: Venue
+---
 
 This is likely going to involve some compromise, simply due to what the ideal venue would look like.
 

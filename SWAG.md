@@ -1,4 +1,7 @@
-# SWAG
+---
+id: swag 
+title: SWAG
+---
 
 What stuff should you look to give to participants to encourage them to come?  In the end, it probably doesn't matter a lot, because trinkets will get lost or forgotten about, so focus on spending your budget on things that matter and are memorable.  To that end, here are some ideas.
 
