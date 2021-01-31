@@ -19,7 +19,7 @@ Our goal is to make it so that technology professionals realize they can make a 
 
 # As a non-profit
 
-## Why should Opportunity Hack become a 501c3?
+## Why did Opportunity Hack become a 501c3?
 
 The main intent behind this is to make funding Opportunity Hack much easier. Funding fuels the mission. 
 
@@ -35,7 +35,7 @@ Another secondary reason is to make the marketing agreements and the process we 
 ### Seeking a location to hold the event is challenging
 When negotiating for space, we have to negotiate as as for-profit company which makes it more difficult to obtain a space to hold Opportunity Hack for free.  If we are a public charity, the sponsoring location can allocate this cost as a tax-deductible expense – making it easier for us to obtain space.
 
-## How would Opportunity Hack work differently as a non-profit?
+## How does Opportunity Hack work differently as a non-profit?
 
 ### Funding for maintenance
 We currently do not receive any support from the for-profit founding company to keep code and software that has been developed up-to-date, and free of security vulnerabilities.  This means that non-profits who receive a final project have to keep up with this on their own.
@@ -56,8 +56,6 @@ Opportunity Hack has not been present on social media, nor has there been much e
 
 ### Opportunity Hack in a Box
 We'd like to spend additional effort (as can be seen on this GitHub repository) to allow anyone to host an Opportunity Hack event.  We would like the logos to be freely available along with other swag so that at the click of a button, anyone can host an event in their location for non-profits who have technical challenges.
-
-
  
 ## What is the mission and objective?
 This is unchanged from the current mission and objective.
@@ -80,7 +78,6 @@ Board of Directors (7 total people to start – the board can always elect more 
 3. Opportunity Hack Founder 3
 
 In addition to the 4 officers above
- 
  
 ## Would there be fundraising to support the nonprofit organization?
 Absolutely – covered in the first answer.
