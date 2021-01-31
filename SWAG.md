@@ -16,13 +16,13 @@ We did a pretty bad job of documenting and planning for sizes over the years, bu
 
 Since the hackers tend to be younger, they also tend to be smaller because of their young hummingbird-like metabolisms.  Those jerks.  But, because they're introverted computer people like the rest of our peers, they also tend to have a need for some much larger sizes as well.  Here is our current best estimates:
 
-<insert estimates>
+(add the estimate)
 
 ### Volunteers
 
 It's nice to have a separate shirt for volunteers.  Makes them easy to distinguish and gives you an opportunity to have another shirt!  They tend to be older, so with our slowing metabolisms, they've moved up the size scale, but there also don't tend to be as many at the extremes.  Here is that estimate:
 
-<insert estimate>
+(add the estimate)
 
 ## Colors
 
@@ -35,9 +35,9 @@ The best item we've come up with, and where we tend to go now is just small over
 * Toothbrush (with toothpaste)
 * Mouth wash
 * Eye mask
-*...
+* ...
 
-[Here](insert link) is where we get ours.  Since you can get them branded, another opportunity to have a sponsor pick up that cost and get their name out there.
+[Here](http://example.com/insert-link) is where we get ours.  Since you can get them branded, another opportunity to have a sponsor pick up that cost and get their name out there.
 
 ## What else we've done
 
