@@ -2,7 +2,6 @@
 id: venue 
 title: Venue
 ---
-
 This is likely going to involve some compromise, simply due to what the ideal venue would look like.
 
 * Free
@@ -21,8 +20,7 @@ This is likely going to involve some compromise, simply due to what the ideal ve
 
 I'm sure there is more, but even just "free" means you're into compromises.
 
-# Must haves
-
+## Must haves
 This is what you absolutely **have to** have.
 
 * A facility that is safe 
@@ -33,8 +31,7 @@ This is what you absolutely **have to** have.
 
 Everything else can be managed.
 
-# What's a good venue?
-
+## What's a good venue?
 A good venue is one that has a staff that is happy to have you there.  It will make everything after that easier.
 
 * Enough space for people to spread out.  
@@ -49,14 +46,12 @@ A good venue is one that has a staff that is happy to have you there.  It will m
 * Parking.
   Enough parking on-site or nearby for people to not have to worry about hw they're going to get there and home again.
 
-# What's a great venu?
-
+## What's a great venu?
 * Amphitheatre with A/V
 * Central kitchen with refrigerators and freezers
 * add more
 
-# Where to look?
-
+## Where to look?
 * Companies
   One of your partner/sponsor companies is likely the best place to source a location because they'll be automatically engaged.
 * Co-working spaces

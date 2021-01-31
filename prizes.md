@@ -2,11 +2,9 @@
 id: prizes
 title: Prizes
 ---
-
 Clearly this needs to considered in [budget](budget.md) as well, but this is for the detailed discussion.
 
-# Trophies
-
+## Trophies
 Let's get the easy one out of the way.  Trophies are nice.  Typically we've done the standard engraved awards, and those are nice.  But how many do you get?  Teams are going to be between three and five (or between X and Y, but still a variable number) so you have to buy at least five.  
 
 There are a few problems with this. 
@@ -18,8 +16,7 @@ The solve to this is to spend more money on a single trophy.  This solves all of
 * You don't waste any.
 * The team can rotate it through people, and when they're done it can go in some sort of college/club trophy case, where you get further publicity out of it.
 
-# Money
-
+## Money
 Clearly, cold, hard, electronic, dollars is a great motivation.  As a result it's probably one of your top costs and top draws.  It also represents a large part of your [budget](budget.md).  What your dollar numbers end up is up to you, but you probably need to ensure you provide some differentiation between 1st and 3rd.  Here are some amounts we've used in the U.S.
 
 * $6000, $3000, $2000
@@ -27,8 +24,7 @@ Clearly, cold, hard, electronic, dollars is a great motivation.  As a result it'
 
 The other challenge is ensuring that your projects get completed.  To do that we typically split the prize money to roughly 20% paid after the hackathon and the remainder paid when the solution goes live for the NPO
 
-# Other Prizes
-
+## Other Prizes
 This is where you have a lot of flexibility with your other partners.  We've offered:
 
 * Software bootcamps

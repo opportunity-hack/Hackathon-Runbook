@@ -2,8 +2,6 @@
 id: budget 
 title: Budget
 ---
-# Budget
-
 You need to understand how much money you have to work with.  Typically, the three largest costs are:
 
 * Prizes
@@ -36,6 +34,12 @@ The prize money is necessary, but the amounts have varied.  The two that we've u
 Need to fill this in more, but make sure that you consider special needs diets.  In particular, veg and vegan.  
 
 ## SWAG
+
+:::note
+
+This is also more fully detailed in [SWAG](swag).
+
+:::
 
 The only thing I can really think of that you need to have is t-shirts.  This is a way to build your brand over time, and it's something people like a lot.  You'll want to make sure you have good shirts, because it really makes a difference and the cost differential is small.  These also have a decent lead time if you want to make sure you can get all the sizes, so you want to have your order in 6-8 weeks before the event.
 
