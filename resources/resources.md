@@ -1,3 +1,7 @@
+---
+id: resources 
+title: Resources
+---
 # Resources
 
 A single place to consolidate the various resources to help you run the hackathon.  

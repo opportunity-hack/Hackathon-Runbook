@@ -1,3 +1,7 @@
+---
+id: budget 
+title: Budget
+---
 # Budget
 
 You need to understand how much money you have to work with.  Typically, the three largest costs are:

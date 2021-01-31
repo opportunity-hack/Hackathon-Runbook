@@ -1,3 +1,7 @@
+---
+id: judging 
+title: Judging
+---
 # Judging
 
 There are any number of ways you _could_ do judging.  Most of them are bad.  There is really only one _good_ way to handle judging.
