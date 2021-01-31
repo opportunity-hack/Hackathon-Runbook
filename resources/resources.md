@@ -2,11 +2,9 @@
 id: resources 
 title: Resources
 ---
-# Resources
-
 A single place to consolidate the various resources to help you run the hackathon.  
 
-# Hackathon Template Files
+## Hackathon Template Files
 
 You should have view access to these, but you'll probably need to make copies for when you run the hackathon. 
 
@@ -15,7 +13,7 @@ You should have view access to these, but you'll probably need to make copies fo
 *  **Put in a generic marketing agreement form for people to leverage**
 *  **Put in some boilerplate rules as well**
 
-## Forms
+### Forms
 
 We tend to use Google Forms for several of the processes, because it makes our lives easier.  But, [giving you access to forms so that you can have your own copies is convoluted](https://alicekeeler.com/2017/01/02/5-steps-sharing-copy-google-form/), so there are a couple of steps.
 
@@ -25,7 +23,7 @@ We tend to use Google Forms for several of the processes, because it makes our l
 *  [Copy of the Registration Form](https://docs.google.com/forms/d/1bGVlrfjH-J9HE6WzSUBGzj-EOrlbnvK96Qnd9qP22W4/edit)
 *  [Copy of the NPO Registration-Up Form](https://docs.google.com/forms/d/10ihlbE_6RKwg9mXpNfRVnM8AzZIhgoarJajl_j5jxcE/copy)
 
-# Food
+## Food Preferences
 
 Here are the survey results from two years.  As you can see, there is a decent amount of regional variation.  If I were to generalize it would probably be something like:
 
@@ -33,7 +31,7 @@ Here are the survey results from two years.  As you can see, there is a decent a
 * Plan for a handful of vegan
 * Otherwise, the remainder is so small as to not be plannable
 
-## 2019
+### 2019 Survey Results
 
 * Arizona
 
@@ -43,7 +41,7 @@ Here are the survey results from two years.  As you can see, there is a decent a
 
 ![2019 CA food results](201911-california-food-survey-graph.png)
 
-# Shirts
+## Shirt Sizes
 
 * Calfornia
 
@@ -54,6 +52,8 @@ Here are the survey results from two years.  As you can see, there is a decent a
 ![2019 AZ Hacker shirts](201910-az-shirt-sizes-hacker.png)
 ![2019 AZ Non-Hacker shirts](201910-az-shirt-sizes-non-hacker.png)
 
-**Note:** I wouldn't trust those non-hacker numbers.  There were too few for the total number of mentors/volunteers/judges we had.  I just provide this here so there is __some__ data.
+:::note 
+I wouldn't trust those non-hacker numbers.  There were too few for the total number of mentors/volunteers/judges we had.  I just provide this here so there is __some__ data.
+:::
 
 
