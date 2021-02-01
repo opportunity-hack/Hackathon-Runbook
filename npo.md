@@ -1,5 +1,7 @@
-# Non-Profit Organizations
-
+---
+id: npo 
+title: Non-Profit Organizations
+---
 The Hackathon is really like a three-legged stool. 
 *  Cooridinating team
 *  Hackers
