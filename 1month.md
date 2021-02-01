@@ -1,6 +1,6 @@
 ---
 id: 1month 
-title: One Month Checklist Overview
+title: One Month Checklist
 ---
 
 placeholder
