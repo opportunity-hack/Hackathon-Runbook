@@ -57,7 +57,7 @@ A good venue is one that has a staff that is happy to have you there.  It will m
 * Co-working spaces
   These tend to be well connected with the community and are well setup for the hacking portion
 * College facilities
-  These can definitely work.  They take more planning, but if you're working with student organizations anyway, normally reasonably in-expensive.
+  These can definitely work.  They take more planning, but if you're working with student organizations anyway, normally reasonably inexpensive.
 * Hotel conference centers
   This generally doesn't work.  They are expensive and not well equipped to handle around-the-clock.  Additionally, they tend to want you to use their catering, which is even more expensive.
 

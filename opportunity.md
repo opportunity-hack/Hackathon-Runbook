@@ -11,7 +11,9 @@ There are now few other hackathons doing similar things, so in the end, I think 
 
 We bring together technologists and charities together to create lasting solutions for non-profits and lasting philanthropy for technologists.
 
-> **Our goal is to make it so that technology professionals realize they can make a lasting difference in their communities, not just by writing a check, but by using their skills and expertise to help others.**
+:::important 
+Our goal is to make it so that technology professionals realize they can make a lasting difference in their communities, not just by writing a check, but by using their skills and expertise to help others.
+:::
 
 ## As a non-profit
 
