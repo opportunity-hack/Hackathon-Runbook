@@ -24,7 +24,7 @@ In general you want to avoid having a case where you have dependencies that are 
 
 In order to break this lockstep you should probably focus on venue first.
 
-## Where (aka [Venue](venue.md) selection)
+## Where (a.k.a. [Venue](venue.md) selection)
 
 * Available to be open around-the-clock from Saturday morning until Sunday evening
   * A lot of places are open to having a hackathon until the realize people will be there all night
@@ -36,7 +36,7 @@ In order to break this lockstep you should probably focus on venue first.
 * Auditorium for judging
 * Audio/Visual available for keynote/intro/judging
 
-## When (aka dates)
+## When (a.k.a. dates)
 
 1. You need to consider the availability of both your hackers and your NPOs.
 2. Depending on your hacker population, might limit their availability
@@ -63,5 +63,5 @@ Critical to this process is developing an on-going relationship.  Once you get t
 
 Additionally, if you want to maximally incentivize college students, you want people hacking at times that make it so that you (and your sponsorship partners) can offer jobs/internships in the next six to nine months.
 
-## How (aka volunteers and mentors)
+## How (a.k.a. volunteers and mentors)
 Mentors and volunteers are the reason for the success of this hackathon. We simply would not be able to handle a large amount of hackers alone. Volunteers will help aid the process of the event and mentors will aid in supporting the hackers.
