@@ -2,11 +2,9 @@
 id: judging 
 title: Judging
 ---
-# Judging
-
 There are any number of ways you _could_ do judging.  Most of them are bad.  There is really only one _good_ way to handle judging.
 
-# TL;DR
+## TL;DR
 * You need to have ceiling(# teams/3.3) judges
 * You'll do two rounds of judging
   * Round one:  Expo style
@@ -17,8 +15,8 @@ There are any number of ways you _could_ do judging.  Most of them are bad.  The
     * Each team gets 4 total minutes, 1 minute of presentaion, 3 minutes of demo
   * After each round of judging, the judges will deliberate for ~30 minutes
 
-# Details
-## Discussion
+## Details
+### Discussion
 
 In the end, this turns into a simple math discussion.  You need to provide A minutes of judging for B total teams.  Now, the traditional method of doing this would be to take B total teams and multiply it by C minutes to come up with the total amount of time for traditional theatre style judging.
 
@@ -26,14 +24,14 @@ This is a train wreck for any reasonable value of either B or C.   At the end of
 
 Or, you don't reduce C.  You now make it so everyone there has to sit through 1+ hours of presentations that are less and less interesting as time goes on, and they are less likely to come back next year, and you have a cycle of decay.  (No, I didn't cut-n-paste that).
 
-## Criteria
+### Criteria
 
 You should spend a lot of time thinking about your criteria for judging.  Regardless as to what you come up with, you absolutely should do the following things:
 
 * Specifically call them out to the teams at the beginning of the hackathon
 * Use the same criteria for round 1 and 2
 
-## Round 1 - Expo Style (aka Science Fair)
+### Round 1 - Expo Style (aka Science Fair)
 
 The first round of judging has a couple of goals: 
 
@@ -87,7 +85,7 @@ So, the example math now looks like:
 
 So, now you can tell that you want a lot of judges.  How many may vary, but it's hard to have too many.
 
-## Round 2
+### Round 2
 
 This is far simpler.  Now the goal is to have the finalists (recommendation is 5) present to all the judges.  The good news here, is that is bounded by the number of teams (F) and the presentation time.  
 
