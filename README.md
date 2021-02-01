@@ -5,9 +5,11 @@ slug: /
 ---
 ![Opportunity Hack Banner Logo](assets/PayBlue/banner_pb.png)
 :::warning
+This is currently a work in progress.  I'm just getting it into Docusaurus, so it's a hot mess.  As a result this page and the right/left indices are probably inconsistent.  I'll be working to bring those into alignment.
+:::
 
-This is currently a work in progress.  I'm just getting it into Docusaurus, so it's a hot mess.
-
+:::tip
+If you're reading this in the [Github repo](https://github.com/opportunity-hack/Runbook) it is now more accessible via a [Github Pages](https://opportunity-hack.github.io/Runbook/docs/)
 :::
 
 This is my first pass at creating a runbook of my/our thoughts on how to run Opportunity Hack.  There are a few caveats:
@@ -16,13 +18,6 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
   * Tuning is is not completely re-examining.
 
 
-## Details
-## [Why Opportunity Hack?](opportunity.md)
-## [Pre-work](pre-work.md) *that must be done*
-  * Core Team
-  * Where
-  * When
-  * Who
 ## Hackathon Planning
   * [Budget](budget.md)
   * [Prizes](prizes.md)
@@ -67,6 +62,3 @@ This is my first pass at creating a runbook of my/our thoughts on how to run Opp
     * [Prepping the judges](prepping-judges.md)
   * Awards
   * Drinking
-
-## Resources
-*  [Resources](resources/resources.md)

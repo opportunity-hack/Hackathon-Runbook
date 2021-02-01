@@ -1,5 +1,9 @@
-# Core team
+---
+id: pre-work 
+title: Overview
+---
 
+## Core team
 The single most important thing you need to do is to identify your core team.  These are the people who will get the work done and you know you can rely on.  Now, a critical part of this is ensuring that you have discrete portions that people can own.  It is a fact of working with volunteers that if you say:
 
 "Hey, can anyone help me out with the hackathon?" you will get very little response.
@@ -8,7 +12,7 @@ But, if you say "Can someone coordinate the Costco order?", you will have a much
 
 Critical to this is that you *must* give that person autonomy.  If you want to tell them _how_ to do the job, then they are unlikely to own it, and won't be there for you year after year.
 
-# Discussion
+### Discussion
 
 In general you want to avoid having a case where you have dependencies that are interlocking, but there are some times it can not be avoided.  This is one of them.
 
@@ -20,7 +24,7 @@ In general you want to avoid having a case where you have dependencies that are 
 
 In order to break this lockstep you should probably focus on venue first.
 
-# Where (aka Venue selection)
+## Where (aka [Venue](venue.md) selection)
 
 * Available to be open around-the-clock from Saturday morning until Sunday evening
   * A lot of places are open to having a hackathon until the realize people will be there all night
@@ -32,13 +36,13 @@ In order to break this lockstep you should probably focus on venue first.
 * Auditorium for judging
 * Audio/Visual available for keynote/intro/judging
 
-# When (aka dates)
+## When (aka dates)
 
 1. You need to consider the availability of both your hackers and your NPOs.
 2. Depending on your hacker population, might limit their availability
 3. Repeat
 
-# Who (aka hackers)
+## Who (a.k.a. hackers)
 
 We've tried all sorts of different audiences.  The fact of the matter is there is only one audience you should directly target as your hackers:
 * College students
@@ -59,5 +63,5 @@ Critical to this process is developing an on-going relationship.  Once you get t
 
 Additionally, if you want to maximally incentivize college students, you want people hacking at times that make it so that you (and your sponsorship partners) can offer jobs/internships in the next six to nine months.
 
-# How (aka volunteers and mentors)
-Mentors and volunteers are the reason for the success of this hackathon. We simply would not be able to handle a large amount of hackers alone. Volunteers will help aide the process of the event and mentors will aide in supporting the hackers.
+## How (aka volunteers and mentors)
+Mentors and volunteers are the reason for the success of this hackathon. We simply would not be able to handle a large amount of hackers alone. Volunteers will help aid the process of the event and mentors will aid in supporting the hackers.
