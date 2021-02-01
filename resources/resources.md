@@ -50,10 +50,11 @@ Here are the survey results from two years.  As you can see, there is a decent a
 * Arizona
 
 ![2019 AZ Hacker shirts](201910-az-shirt-sizes-hacker.png)
-![2019 AZ Non-Hacker shirts](201910-az-shirt-sizes-non-hacker.png)
 
 :::note 
-I wouldn't trust those non-hacker numbers.  There were too few for the total number of mentors/volunteers/judges we had.  I just provide this here so there is __some__ data.
+I wouldn't trust these non-hacker numbers.  There were too few for the total number of mentors/volunteers/judges we had.  I just provide this here so there is __some__ data.
 :::
 
+
+![2019 AZ Non-Hacker shirts](201910-az-shirt-sizes-non-hacker.png)
 
