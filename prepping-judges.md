@@ -1,5 +1,7 @@
-# Prepping the Judges
-
+---
+id: prepping 
+title: Prepping the Judges
+---
 Most of the time, this will be the first time your judges have judged at Opportunity Hack.  For many of them it's likely to even be the first time they'd been judges.  So, you need to give them some preparations to get the best possible outcomes.
 
 ## Arrival Time
@@ -26,7 +28,7 @@ This is your opportunity to ensure everyone is on the same wavelength.  I'm gett
 *  Brief overview of the goals of Opportunity Hack
 *  Go through all of their supplies and ensure they all verify they have what they need
 *  Go over the judging criteria
-*  Show the part of the presentation on that the hackers saw (again, it's in [resources](resources/resources.md))) on what they should demo and how
+*  Show the part of the presentation on that the hackers saw (again, it's in [resources](resources/resources.md)) on what they should demo and how
 *  Tell them to make sure they are consistent from first to the last.  We can adjust for differences between them.
 *  Scoring
   *  Integers
